@@ -1,0 +1,36 @@
+﻿Bảng So sánh và Phân tích Hiệu quả Prompt
+Tác vụ học tập
+Phiên bản Prompt
+Mô phỏng Đặc điểm Kết quả đầu ra (Output)
+Phân tích Hiệu quả (Tại sao prompt lại hoạt động tốt/kém?)
+1. Tóm tắt Quy hoạch động
+Cơ bản
+Đưa ra một đoạn văn dài, định nghĩa khô khan giống hệt Wikipedia. Không làm nổi bật được các thuật ngữ quan trọng.
+Kém: Thiếu định hướng. AI phải tự đoán ngữ cảnh và mức độ hiểu biết của người dùng nên chọn cách trả lời an toàn, chung chung.
+Cải tiến
+Trình bày rõ ràng 2 khái niệm: Bài toán con gối nhau và Cấu trúc con tối ưu. Có xuống dòng, dễ đọc hơn.
+Tốt: Việc chỉ định rõ cấu trúc và từ khóa buộc AI phải tập trung nội dung vào đúng trọng tâm, loại bỏ các thông tin rườm rà.
+Nâng cao
+Đưa ra ví dụ so sánh với Chia để trị, giải thích thông qua bài toán Fibonacci, trình bày bằng gạch đầu dòng ngắn gọn dưới 300 từ.
+Xuất sắc: Kỹ thuật Few-shot và Role-prompting (chuyên gia thuật toán) giúp AI thay đổi văn phong sang hướng giải thích sư phạm. Việc giới hạn độ dài (dưới 300 từ) ép AI phải chắt lọc thông tin tinh túy nhất.
+2. Giải thích Giá trị riêng
+Cơ bản
+Ném ra ngay phương trình toán học $Ax = \lambda x$ và các bước tính định thức ma trận. Rất khó hiểu cho người mới.
+Kém: Câu lệnh quá mở, AI mặc định trả lời theo phong cách hàn lâm thuần túy, bỏ qua trực giác hình học.
+Cải tiến
+Trình bày theo đúng 3 phần: Định nghĩa, Ý nghĩa hình học, Ví dụ ma trận 2x2.
+Tốt: Đã khắc phục được sự khô khan nhờ yêu cầu cấu trúc rõ ràng (chia 3 phần). Tuy nhiên, cách chuyển ý giữa các phần có thể còn rời rạc.
+Nâng cao
+Dẫn dắt từ ví dụ "kéo giãn cao su", sau đó mới đưa công thức vào, và kết thúc bằng ứng dụng thực tế (PageRank/SVD).
+Xuất sắc: Kỹ thuật Chain-of-thought (Suy nghĩ từng bước) buộc AI phải tư duy theo quy trình nhận thức của con người (từ trực quan -> lý thuyết -> ứng dụng). Văn phong giáo sư giúp bài viết mang tính truyền cảm hứng cao.
+3. Tạo bộ câu hỏi Java OOP
+Cơ bản
+Trả ra 5 câu hỏi trắc nghiệm ngẫu nhiên, mức độ quá dễ (chỉ hỏi lý thuyết suông), có thể quên không kèm đáp án.
+Kém: Không xác định độ khó, số lượng, và định dạng đầu ra, dẫn đến kết quả hên xui, giá trị sử dụng thấp.
+Cải tiến
+Đưa ra đúng 4 câu hỏi tương ứng 4 tính chất OOP (Đóng gói, Kế thừa, Đa hình, Trừu tượng), có đáp án cuối bài.
+Tốt: Việc cụ thể hóa các "ràng buộc" (constraints) về số lượng và chủ đề giúp AI tạo ra một bộ đề cân bằng và đủ ý.
+Nâng cao
+Có sự phân hóa rõ ràng: câu hỏi tình huống (so sánh C++ và Java), câu tự luận tìm lỗi code. Đáp án dạng bảng kèm lời giải thích chi tiết.
+Xuất sắc: Kết hợp đa kỹ thuật. Chỉ định đối tượng đích ("người có nền tảng C++") giúp AI nâng cao độ khó một cách tinh tế. Yêu cầu định dạng bảng và "giải thích phương án sai" biến đầu ra thành một tài liệu tự học hoàn chỉnh.
+Dưới đây là ảnh chụp minh hoạ:

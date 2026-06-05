@@ -1,0 +1,157 @@
+Nội dung nộp: Báo cáo cá nhân
+BÀI TẬP PHÁT TRIỂN KỸ NĂNG HỌC THUẬT
+BÁO CÁO NGHIÊN CỨU
+SỬ DỤNG TRÍ TUỆ NHÂN TẠO (AI) CÓ TRÁCH NHIỆM
+VÀ ĐẠO ĐỨC TRONG HỌC THUẬT
+Chủ đề: Phát triển kỹ năng sử dụng AI có trách nhiệm và đạo đức trong học tập và nghiên cứu
+I. NGHIÊN CỨU CHÍNH SÁCH CỦA TRƯỜNG ĐẠI HỌC VỀ VIỆC SỬ DỤNG AI
+Trong bối cảnh bùng nổ của các công cụ trí tuệ nhân tạo tạo sinh (Generative AI) như ChatGPT, Gemini, và
+Claude, hệ thống giáo dục đại học tại Việt Nam đã có những bước chuyển biến mạnh mẽ nhằm định hình hành vi
+học tập của sinh viên. Qua khảo sát xu hướng chính sách chung tại các cơ sở giáo dục đại học lớn (như khối Đại
+học Quốc gia và các trường đại học kỹ thuật trọng điểm), khung quản lý đối với công cụ AI hiện nay được xây dựng
+dựa trên ba trụ cột cốt lõi.
+Thứ nhất là tính Minh bạch và Trách nhiệm giải trình. Sinh viên được phép, thậm chí được khuyến khích
+sử dụng AI như một phương tiện hỗ trợ nâng cao hiệu suất học tập, chẳng hạn như tìm kiếm ý tưởng, tóm tắt các tài
+liệu học thuật dài hoặc rà soát lỗi chính tả và cấu trúc câu. Tuy nhiên, quy định bắt buộc là người học phải khai báo
+một cách minh bạch các khâu có sự tham gia của AI và chịu trách nhiệm toàn bộ đối với tính chính xác của dữ liệu
+được nộp. Việc AI đưa ra thông tin sai lệch hoặc ngụy tạo (hallucination) không được chấp nhận như một lý do để
+giảm nhẹ trách nhiệm khi xảy ra sai sót chuyên môn.
+Thứ hai là Ranh giới đạo văn và Gian lận học thuật. Chính sách học thuật của nhà trường quy định rõ việc
+sao chép nguyên văn văn bản, mã nguồn hoặc các sản phẩm do AI tạo ra rồi biến thành sản phẩm của cá nhân mà
+không qua quá trình phân tích, đối chiếu và trích dẫn hợp lệ sẽ bị coi là hành vi gian lận nghiêm trọng. Hệ thống
+kiểm tra đạo văn hiện tại cũng đang được tích hợp thêm các module phát hiện AI để đảm bảo tính công bằng trong
+đánh giá.
+Nhận định cá nhân về chính sách này, mô hình quản lý hiện tại phản ánh tư duy "Cởi mở có kiểm soát". Đây
+là một hướng đi tiến bộ và thực tế. Thay vì cấm đoán một công nghệ mang tính tất yếu, nhà trường tập trung vào
+việc giáo dục ý thức sử dụng công cụ của sinh viên, từ đó thúc đẩy năng lực tư duy phản biện (critical thinking) và
+kỹ năng chọn lọc thông tin giữa một kỷ nguyên số đầy biến động.
+II. THỰC HIỆN NHIỆM VỤ HỌC TẬP VỚI SỰ HỖ TRỢ CỦA AI
+Để minh họa rõ nét quy trình ứng dụng AI một cách có trách nhiệm, báo cáo này ghi lại nhật ký thực hiện
+nhiệm vụ: Nghiên cứu và tổng hợp tài liệu về chủ đề "Giải pháp giảm thiểu rác thải nhựa đại dương tại Việt
+Nam tầm nhìn 2030".
+Báo cáo Học thuật | Đạo đức sử dụng AI
+Trang 1
+1. Quá trình tương tác và ghi lại các Prompt
+Trong quá trình làm việc, công cụ Gemini được sử dụng như một trợ lý nghiên cứu qua hai giai đoạn cụ thể:
+Giai đoạn 1: Thiết lập cấu trúc nghiên cứu (Lập dàn ý)
+Prompt đã sử dụng: "Hãy đóng vai một chuyên gia nghiên cứu môi trường, lập một dàn ý chi tiết gồm 3
+phần chính cho bài tiểu luận dài 5 trang về chủ đề 'Thực trạng và giải pháp giảm thiểu rác thải nhựa đại
+dương tại Việt Nam hiện nay'." 
+Đầu ra của AI: AI cung cấp một bộ khung logic gồm: Phần mở đầu; Phần nội dung (chia thành: 1. Thực trạng
+khối lượng rác xả biển, 2. Nguyên nhân từ quản lý và ý thức, 3. Tác động đến hệ sinh thái ven biển); Phần giải
+pháp (chính sách pháp luật, công nghệ xử lý, giáo dụ cộng đồng) và Phần kết luận. 
+Giai đoạn 2: Thu thập số liệu sơ thứ cấp để định hướng tra cứu
+Prompt đã sử dụng: "Tóm tắt các số liệu chính thống về khối lượng rác thải nhựa xả ra biển hàng năm
+tại Việt Nam theo các báo cáo giai đoạn 2022-2024. Chỉ ra nguồn cơ sở nếu có." 
+Đầu ra của AI: AI đưa ra các ước tính dữ liệu (khoảng 0,28 đến 0,73 triệu tấn rác thải nhựa xả ra biển mỗi
+năm, đứng trong top các quốc gia có lượng rác thải lớn) và gợi ý đối chiếu với số liệu của IUCN và Bộ Tài
+nguyên và Môi trường. 
+2. Đánh giá, chỉnh sửa và tích hợp đầu ra của AI
+Sau khi tiếp nhận phản hồi từ AI, quy trình đánh giá và sàng lọc được thực hiện nghiêm ngặt. Về mặt dàn ý,
+cấu trúc AI cung cấp tương đối hoàn thiện nhưng mang tính bao quát toàn cầu, chưa đi sâu vào đặc thù thể chế của
+Việt Nam. Do đó, tôi đã chủ động chỉnh sửa, bổ sung thêm mục phân tích việc thực thi Đề án 1746/QĐ-TTg (Kế
+hoạch hành động quốc gia về quản lý rác thải nhựa đại dương đến năm 2030) để đảm bảo tính thực tiễn.
+Đối với phần dữ liệu số liệu, nhận thức được rủi ro AI có thể cung cấp thông tin lỗi thời, tôi đã sử dụng các
+con số do AI gợi ý làm từ khóa để tìm kiếm đối chiếu trực tiếp trên trang văn bản gốc của Bộ Tài nguyên và Môi
+trường và Báo cáo hiện trạng môi trường quốc gia. Quá trình viết báo cáo cuối cùng hoàn toàn do bản thân tự hành
+văn, lồng ghép các lập luận cá nhân dựa trên các tài liệu chính thống đã được xác thực.
+Sự minh bạch được thực hiện bằng cách thêm ghi chú rõ ràng ở phần cuối bài nghiên cứu: "Bản thảo nghiên
+cứu này có sử dụng công cụ Gemini để hỗ trợ xây dựng cấu trúc luận điểm ban đầu và rà soát lỗi chính tả văn
+bản."
+Báo cáo Học thuật | Đạo đức sử dụng AI
+Trang 2
+III. PHÂN TÍCH CÁC VẤN ĐỀ ĐẠO ĐỨC LIÊN QUAN
+1. Ranh giới giữa hỗ trợ hợp lý và gian lận học thuật
+Ranh giới giữa việc sử dụng AI như một công cụ hỗ trợ và việc biến nó thành một hành vi gian lận nằm ở
+quyền làm chủ tư duy. Hỗ trợ hợp lý xuất hiện khi sinh viên đóng vai trò là kiến trúc sư, tự mình hoạch định
+hướng đi, đặt câu hỏi phản biện, sử dụng AI để giải nghĩa các thuật ngữ phức tạp, dịch tài liệu hoặc tối ưu hóa câu
+từ. Lúc này, AI đóng vai trò như một chất xúc tác thúc đẩy tiến trình nhận thức.
+Ngược lại, gian lận học thuật xảy ra khi người học ủy thác hoàn toàn trách nhiệm tư duy cho công nghệ: đưa
+toàn bộ yêu cầu đề bài cho chatbot, sao chép nguyên văn kết quả mà không qua bộ lọc tư duy hay kiểm chứng, rồi
+ký tên mình lên sản phẩm. Hành vi này tước đoạt bản chất của giáo dục, biến người học thành một mắt xích thụ
+động và tạo ra sự bất công đối với những cá nhân nỗ lực nghiên cứu thực chất.
+2. Vấn đề về quyền sở hữu trí tuệ và trích dẫn
+Bản chất của các mô hình ngôn ngữ lớn là học máy dựa trên việc khai thác dữ liệu từ hàng triệu tài liệu, sách,
+bài báo có bản quyền trên không gian mạng. Do đó, sản phẩm đầu ra của AI là một dạng tri thức tổng hợp gián tiếp
+từ chất xám của nhiều tác giả khác nhau nhưng không thể hiển thị nguồn gốc sơ cấp một cách hoàn chỉnh. Sử dụng
+văn bản của AI mà không công khai hoặc trích dẫn không chỉ vi phạm nguyên tắc minh bạch mà còn tiềm ẩn nguy
+cơ đạo văn gián tiếp đối với các công trình gốc. Người học cần tuân thủ nghiêm ngặt các quy chuẩn quốc tế mới
+như APA 7th hoặc MLA 9th trong việc định danh và trích dẫn các đoạn thông tin có sự tham gia của AI.
+3. Tác động đến quá trình học tập và phát triển kỹ năng
+Về mặt tích cực, AI đóng vai trò như một người hướng dẫn cá nhân hóa, giúp phá bỏ rào cản ngôn ngữ khi
+tiếp cận tài liệu quốc tế và rút ngắn thời gian xử lý các tác vụ cơ học. Tuy nhiên, việc lạm dụng quá mức sẽ dẫn đến
+hiện tượng "suy thoái nhận thức" (cognitive atrophy). Nếu một sinh viên luôn chọn giải pháp nhanh nhất là nhờ AI
+lập luận hộ, bộ não sẽ mất dần khả năng phân tích logic, kỹ năng tổng hợp thông tin phức tạp và năng lực giải quyết
+vấn đề độc lập. Về lâu dài, điều này sẽ tạo ra một thế hệ nhân lực thụ động, dễ dàng bị thay thế khi bước vào thị
+trường lao động thực tế.
+IV. BỘ NGUYÊN TẮC CÁ NHÂN VỀ SỬ DỤNG AI CÓ TRÁCH NHIỆM
+Để đảm bảo việc sử dụng công cụ công nghệ không làm mài mòn giá trị tự thân, tôi tự thiết lập hệ thống 7 nguyên
+tắc hành động sau:
+Nguyên tắc Người cầm lái: Tôi luôn giữ quyền điều khiển và chịu trách nhiệm tối cao đối với sản phẩm học
+thuật của mình. AI chỉ đóng vai trò trợ lý hỗ trợ hành trình.
+Nguyên tắc Minh bạch tuyệt đối: Chủ động và thành thật khai báo rõ ràng phạm vi, mức độ và công cụ AI
+được sử dụng trong mọi bài tập hay báo cáo nghiên cứu.
+Nguyên tắc Hoài nghi khoa học (Zero Trust): Xem mọi thông tin, số liệu, sự kiện do AI cung cấp là giả định
+cần kiểm chứng. Bắt buộc phải đối chiếu lại với các nguồn tài liệu gốc đáng tin cậy trước khi tích hợp vào bài
+làm.
+1. 
+2. 
+3. 
+Báo cáo Học thuật | Đạo đức sử dụng AI
+Trang 3
+Nguyên tắc Bảo mật thông tin: Không tải lên các nền tảng AI công cộng bất kỳ dữ liệu cá nhân nhạy cảm, mã
+nguồn độc quyền, hoặc các tài liệu mang tính chất nội bộ của nhà trường.
+Nguyên tắc Bảo tồn bản sắc cá nhân: Sử dụng AI để gợi ý phương pháp chứ không thay thế giọng văn. Mọi
+phân tích, lập luận cốt lõi và kết luận phải mang dấu ấn tư duy độc lập của bản thân.
+Nguyên tắc Tư duy độc lập trước: Trước khi tham khảo ý kiến từ AI, bản thân phải tự nghiên cứu, phác thảo
+các luận điểm sơ khởi để tránh bị định hình tư duy (bias) theo các khuôn mẫu có sẵn của máy móc.
+Nguyên tắc Phát triển năng lực thực chất: Sử dụng AI với mục tiêu tối thượng là mở rộng tri thức và tối ưu
+hóa năng suất làm việc, tuyệt đối không dùng AI như một công cụ đối phó nhằm đạt điểm số hình thức.
+V. INFOGRAPHIC: SỬ DỤNG AI CÓ TRÁCH NHIỆM TRONG HỌC THUẬT
+AI TRONG HỌC THUẬT: ĐỐI TÁC, KHÔNG PHẢI KẺ ĐÓNG THẾ!
+✓ NÊN LÀM (HỖ TRỢ HỢP LÝ)
+Sử dụng  AI  để tìm  kiếm  ý  tưởng  mới
+(Brainstorming) khi bắt đầu đề tài.
+Nhờ AI tóm tắt các bài báo khoa học dài để nắm
+bắt nhanh luận điểm chính.
+Sử dụng AI để rà soát lỗi chính tả, cấu trúc câu
+và tối ưu hóa từ vựng.
+Yêu cầu AI giải thích các khái niệm lý thuyết
+trừu tượng hoặc thuật ngữ khó hiểu.
+✗ KHÔNG ĐƯỢC LÀM (GIAN LẬN)
+Sao chép trực tiếp (Copy-Paste) toàn bộ văn
+bản do AI tạo ra để nộp.
+Giao phó cho AI giải các bài tập hoặc viết mã
+nguồn 100% từ đầu đến cuối.
+Sử dụng số liệu, trích dẫn của AI mà không
+thực hiện kiểm chứng chéo độc lập.
+Che giấu hoặc ngụy tạo quá trình sử dụng AI
+trước giảng viên và nhà trường.
+QUY TRÌNH 3C ĐỂ SỬ DỤNG AI CÓ ĐẠO ĐỨC
+1. CÂU HỎI (CRITIQUE)
+Đầu tư xây dựng prompt thông
+minh, đặt câu hỏi định hướng thay
+vì ra lệnh làm hộ. 
+2. KIỂM CHỨNG
+(CHECK)
+Đối chiếu chéo mọi dữ liệu, số liệu
+với các văn bản chính thống và tài
+liệu gốc. 
+3. CÁO BẠCH (CITE)
+Khai báo công khai, minh bạch công
+cụ và phạm vi sử dụng AI ở phần
+phụ lục bài làm. 
+4. 
+5. 
+6. 
+7. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Báo cáo Học thuật | Đạo đức sử dụng AI
+Trang 4
